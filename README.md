@@ -1,1 +1,2 @@
 # Math560_Project
+This repository is for my Spring 2022 semester project in Math 560 (Statistical Data Analysis) at the University of Louisville. The project goal is to analyze a data set of stats from the popular Nintendo game series, Pokémon. The data was obtained from Kaggle.com, and the .csv file is stored in this repository. Alternatively, you can access the data set via this link: https://www.kaggle.com/datasets/abcsds/pokemon
